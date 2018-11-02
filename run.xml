@@ -1,1 +1,5 @@
-a
+<xsl:template match="/ARTICLE/TITLE">
+ <h1 align="center"> 
+    <xsl:apply-templates/> </h1>
+ </xsl:template>
+</xsl:stylesheet>
